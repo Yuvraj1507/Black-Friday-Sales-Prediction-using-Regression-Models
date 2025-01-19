@@ -1,8 +1,12 @@
 📊 Black Friday Sales Prediction using Regression Models 🚀
 
+
+
 Project Overview 📈
 
 This project aims to predict product purchase amounts during Black Friday sales using machine learning algorithms. By leveraging historical sales data, we aim to help retail stores optimize their product pricing strategies for maximum profit. Multiple regression models were implemented to forecast sales, and the best-performing model was selected based on evaluation metrics like RMSE.
+
+
 
 🛠️ Technologies Used
 
@@ -21,6 +25,8 @@ GitHub (for version control and collaboration)
 
 ![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
 
+
+
 ⚙️ Key Features
 
 Data Preprocessing: Cleaned the dataset by handling missing values and encoding categorical variables.
@@ -32,6 +38,8 @@ Model Building: Implemented and tuned multiple regression models, including Line
 Model Evaluation: Used Root Mean Squared Error (RMSE) as the evaluation metric to select the best-performing model.
 
 Insights: Extracted valuable insights into customer behavior and spending patterns to help optimize pricing strategies.
+
+
 
 
 ## Table Of Contents
@@ -73,6 +81,7 @@ Root Mean Square Error (RMSE) is a standard way to measure the error of a model 
 Implanted multiple supervised models such as Linear Regressor,Decision Tree Regressor, Random Forest Regressor and XGBOOST Regressor. Out of these supervised models, based on the RMSE scores XGBRegressor/XGBOOST Regressor was the best performer with a score of 2879.
 
 
+
 📝 How to Run
 Clone the repository to your local machine:
 
@@ -87,6 +96,7 @@ Open the Jupyter Notebook:
 
 jupyter notebook
 Run the notebook cells sequentially to see data processing, model building, and evaluation steps.
+
 
 
 📊 Project Insights
@@ -104,6 +114,8 @@ Random Forest RMSE: 2900
 XGBoost RMSE: 2879 (Best Model)
 The XGBoost Regressor outperformed other models with the lowest RMSE, making
 it the optimal choice for predicting sales amounts.
+
+
 
 📚 Conclusion
 
