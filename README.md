@@ -71,3 +71,42 @@ Root Mean Square Error (RMSE) is a standard way to measure the error of a model 
 ### Conclusion
 Implanted multiple supervised models such as Linear Regressor,Decision Tree Regressor, Random Forest Regressor and XGBOOST Regressor. Out of these supervised models, based on the RMSE scores XGBRegressor/XGBOOST Regressor was the best performer with a score of 2879.
 
+
+📝 How to Run
+Clone the repository to your local machine:
+
+git clone https://github.com/your-username/black-friday-sales-prediction.git
+Navigate to the project directory:
+
+cd black-friday-sales-prediction
+Install the required dependencies:
+
+pip install -r requirements.txt
+Open the Jupyter Notebook:
+
+jupyter notebook
+Run the notebook cells sequentially to see data processing, model building, and evaluation steps.
+
+
+📊 Project Insights
+
+Gender Analysis: The majority of purchases were made by male consumers.
+Age Group Spending: Consumers between the ages of 25-40 spent the most during Black Friday.
+City Demographics: City B had the highest overall sales, but specific products were predominantly purchased in City C.
+Marital Status: Single men spent more than married men, potentially due to fewer financial responsibilities.
+
+📈 Model Performance
+
+Linear Regression RMSE: 3000
+Decision Tree RMSE: 2800
+Random Forest RMSE: 2900
+XGBoost RMSE: 2879 (Best Model)
+The XGBoost Regressor outperformed other models with the lowest RMSE, making
+it the optimal choice for predicting sales amounts.
+
+📚 Conclusion
+
+This project demonstrates how machine learning can be applied to real-world business challenges like sales forecasting.
+By predicting the purchase amount, retailers can make more informed decisions about 
+pricing, inventory, and promotional strategies during the Black Friday sales period.
+
