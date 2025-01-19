@@ -6,16 +6,15 @@ This project aims to predict product purchase amounts during Black Friday sales 
 🛠️ Technologies Used
 
 Frontend:
-
 Python
 Jupyter Notebooks
 Matplotlib, Seaborn (for data visualization)
-Backend:
 
+Backend:
 Pandas, NumPy (for data manipulation and preprocessing)
 Scikit-learn, XGBoost (for machine learning models)
-Tools:
 
+Tools:
 Jupyter Notebook (for implementation and testing)
 GitHub (for version control and collaboration)
 
