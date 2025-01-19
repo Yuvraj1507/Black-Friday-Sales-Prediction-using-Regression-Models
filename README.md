@@ -84,17 +84,21 @@ Implanted multiple supervised models such as Linear Regressor,Decision Tree Regr
 
 📝 How to Run
 Clone the repository to your local machine:
-
 git clone https://github.com/your-username/black-friday-sales-prediction.git
+
+
 Navigate to the project directory:
-
 cd black-friday-sales-prediction
+
+
 Install the required dependencies:
-
 pip install -r requirements.txt
-Open the Jupyter Notebook:
 
+
+Open the Jupyter Notebook:
 jupyter notebook
+
+
 Run the notebook cells sequentially to see data processing, model building, and evaluation steps.
 
 
