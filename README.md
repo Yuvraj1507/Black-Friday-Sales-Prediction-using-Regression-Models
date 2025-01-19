@@ -21,11 +21,17 @@ GitHub (for version control and collaboration)
 ![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
 
 ⚙️ Key Features
+
 Data Preprocessing: Cleaned the dataset by handling missing values and encoding categorical variables.
+
 Exploratory Data Analysis (EDA): Analyzed consumer behavior, spending patterns, and demographic insights.
+
 Model Building: Implemented and tuned multiple regression models, including Linear Regression, Decision Tree, Random Forest, and XGBoost.
+
 Model Evaluation: Used Root Mean Squared Error (RMSE) as the evaluation metric to select the best-performing model.
+
 Insights: Extracted valuable insights into customer behavior and spending patterns to help optimize pricing strategies.
+
 
 ## Table Of Contents
   - [Project Introduction](#project-introduction)
