@@ -1,6 +1,7 @@
 📊 Black Friday Sales Prediction using Regression Models 🚀
 
 Project Overview 📈
+
 This project aims to predict product purchase amounts during Black Friday sales using machine learning algorithms. By leveraging historical sales data, we aim to help retail stores optimize their product pricing strategies for maximum profit. Multiple regression models were implemented to forecast sales, and the best-performing model was selected based on evaluation metrics like RMSE.
 
 🛠️ Technologies Used
